@@ -1,0 +1,21 @@
+{
+  "name": "gajoy",
+  "displayName": "Gajoy Theme",
+  "description": "An extension to express my feelings through colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gajoy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gajoy Theme-color-theme.json"
+      }
+    ]
+  }
+}
